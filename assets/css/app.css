@@ -1,0 +1,35 @@
+.slider-bg1 {
+    background-image: url(../img/gallery/gerbang.jpg) !important;
+}
+
+.slider-height2 {
+    background-image: url(../img/gallery/gerbang.jpg) !important;
+}
+
+.visit-one .visit-team {
+    background-image: url(../img/gallery/sekolahpenggerak2.jpg) !important;
+}
+
+.visit-three .visit-team {
+    background-image: url(../img/gallery/fotosiswappdb.png) !important;
+}
+
+/*.visit-one .visit-team {
+    background-image: url(../img/gallery/sekolahpenggerak.jpg) !important;
+    background-color: #fff6ee;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 360px;
+    width: 50%;
+}*/
+
+/* .slick-slider {
+    height: 150px;
+}
+
+.slick-slider img {
+    height: 100%;
+    width: auto;
+} */
